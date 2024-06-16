@@ -63,4 +63,4 @@ jobs:
           app-name: 'MyFriendSystem'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C325AFFC35F546F19EA2FCC9D27792AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2603AF9FFD324AFBB5272F6D48DB5EDB }}
